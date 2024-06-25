@@ -6,10 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "dev" : "nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "backend"
+    "javascript",
+    "backend",
+    "chai"
   ],
   "author": "Parth Arora",
   "license": "ISC",
